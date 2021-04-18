@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+   
+}
+.currentStats {
+    /* margin-top:80px; */
+    width:350px;
+    height:100px;
+    /* margin-left:400px; */
+    background-image: linear-gradient(to right, red , yellow);
+    border:solid ;
+    
+    border-color: rgb(72, 228, 11);
+    border-width: 10px;
+    /* transition: 3s; */
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.reasons{
+    /* margin-top:20px; */
+    width:350px;
+    height:100px;
+    /* margin-left:100px; */
+    background-image: linear-gradient(to right, red , yellow);
+    border:solid ;
+    
+    border-color: #5bd62a;
+    border-width: 10px;
+    /* transition: 3s; */
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.game{
+    /* margin-top:50px; */
+    width:350px;
+    height:100px;
+    /* margin-left:300px; */
+    background-image: linear-gradient(to right, red , yellow);
+    border:solid ;
+    
+    border-color: #5bd62a;
+    border-width: 10px;
+    /* transition: 3s; */
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.heading{
+    display:flex;
+    justify-content:center;
+    font-size: 30px;
+    font-weight: bold;
+    color:#ff0000;
+}
+.btns{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin-top: 20px;
+    
+
+}
+.info{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    font-size: 28px;
+    font-weight: bold;
+    color:black;
+}
